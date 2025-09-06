@@ -70,4 +70,11 @@ kubectl version --client --output=yaml
 
 echo
 echo "🎉 Docker, Kind, and kubectl installation complete!"
+ss
+s
+https://github.com/LondheShubham153/kubestarter/tree/main/kind-cluster
+
+
+
+
 
